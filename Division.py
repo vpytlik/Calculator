@@ -3,8 +3,11 @@ from parent import AbstractOperations
 
 class Division(AbstractOperations):
     def division(self, x, y):
-        if x.isdigit() and y.isdigit():
-            div = int(x) / int(y)
-            return div
+        if type(x) is float and type(y) is float:
+            div = round(x, 2) / round(y, 2)
+            return round(div, 2)
         else:
-            print("Incorrect type of data")
+            div = x / y
+            return round(div, 2)
+        # else:
+        #     print("Incorrect type of data")
