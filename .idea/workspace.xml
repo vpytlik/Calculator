@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fceb19e-b4ea-4ad1-a5d9-261ce714f330" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_calc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_calc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Division.py" beforeDir="false" afterPath="$PROJECT_DIR$/Division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multiplication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Subtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_calc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,8 +70,8 @@
       <file leaf-file-name="test_calc.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_calc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="765">
+              <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -102,19 +96,19 @@
       <list>
         <option value="$PROJECT_DIR$/parent.py" />
         <option value="$PROJECT_DIR$/calculator.py" />
-        <option value="$PROJECT_DIR$/test_calc.py" />
         <option value="$PROJECT_DIR$/Division.py" />
         <option value="$PROJECT_DIR$/Subtraction.py" />
         <option value="$PROJECT_DIR$/Addition.py" />
         <option value="$PROJECT_DIR$/Multiplication.py" />
+        <option value="$PROJECT_DIR$/test_calc.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1987" />
+    <option name="x" value="1985" />
     <option name="y" value="-4" />
-    <option name="width" value="1853" />
-    <option name="height" value="1076" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,7 +136,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_calc.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../socket" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -164,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_calc.test_div">
+  <component name="RunManager" selected="Python tests.py.test for test_calc.test_sum">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_calc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,8 +256,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_calc.test_div" />
         <item itemvalue="Python tests.py.test for test_calc.test_sum" />
+        <item itemvalue="Python tests.py.test for test_calc.test_div" />
         <item itemvalue="Python tests.py.test for test_calc.test_calc.test_sum" />
         <item itemvalue="Python.calculator" />
       </list>
@@ -283,34 +277,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 01m 12s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 14m 50s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 03m 20s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 15m 45s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 06m 58s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 15m 58s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 09m 36s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 18m 19s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 10m 24s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 19m 51s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 10m 31s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 20m 33s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 10m 59s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 21m 10s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 12m 19s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 25m 30s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 13m 58s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 26m 08s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_calc_py - 2018.12.05 at 16h 14m 32s.xml">
+    <history-entry file="py_test_in_test_calc_py - 2018.12.06 at 13h 27m 08s.xml">
       <configuration name="py.test in test_calc.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -408,17 +402,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multiplication.py">
+    <entry file="file://$PROJECT_DIR$/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Subtraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -429,17 +416,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator.py">
+    <entry file="file://$PROJECT_DIR$/Subtraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_calc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="765">
+          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
